@@ -37,16 +37,18 @@ Provides variant selection, add-to-cart, and visual inventory check features.
 1. **Select Variant**
 - Use the dropdown to select the product size or color.
   
-(https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/variant.jpg)
+![elect Variant](https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/variant.jpg)
 
 1. **Add to Cart**
 - Click **Add to Cart** after selecting a variant.
 - The product will be added directly to your cart.
-(https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/AddCart.jpg)
+  
+![Add to Car](https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/AddCart.jpg)
 
 1. **View Cart**
 - Click the cart icon in the header to see a list of selected products.
-(https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/ViewCart.jpg)
+  
+![View Cart](https://github.com/harun-alrosyid/hustlr-staffing-product-ui/blob/main/ViewCart.jpg)
 
 ---
 
