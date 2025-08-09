@@ -1,8 +1,9 @@
-import React, { createContext, useContext, useMemo, useState, ReactNode } from "react";
+import React, { createContext, ReactNode, useContext, useMemo, useState } from 'react';
+
 import type { Product } from "@/types/product";
 
 export type CartItem = {
-  id: string; // product id + variant key
+  id: string;
   productId: string;
   name: string;
   price: number;
